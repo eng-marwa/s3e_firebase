@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1027832434732",
+    "project_id": "s3e-app",
+    "storage_bucket": "s3e-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1027832434732:android:10576582d947c4691a8189",
+        "android_client_info": {
+          "package_name": "com.example.s3e_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrtPVhvsIQXR0UHSpC-lKiW6-Nb7pQhi4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
